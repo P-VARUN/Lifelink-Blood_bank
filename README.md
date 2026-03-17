@@ -73,20 +73,13 @@ The system follows real medical blood transfusion rules:
 
 ---
 
-## 👨‍💻 Author
-
-**P. Varun**  
-Hyderabad, Telangana, India
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Made with ❤️ for saving lives**
+**Made with ❤️ by Varun**
 
 
 ---
