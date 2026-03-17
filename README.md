@@ -80,15 +80,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Made with ❤️ by Varun**
-
-
----
-
-**How to use:**
-1. Go to your GitHub repo: https://github.com/P-VARUN/Lifelink-Blood_bank
-2. Click on **Add a README** or create a new file named `README.md`
-3. **Delete** any existing content
-4. Paste the entire code above
-5. Scroll down and click **Commit new file** (or **Commit changes**)
-
-Would you like me to also give you a `LICENSE` file (MIT License) to add? Just say yes.
